@@ -9,3 +9,11 @@ Here is a code in markdown
 ```python
 print("hello world!")
 ```
+
+## Lists example
+
+Here is how to create list using markdown
+
+- [ ] Choose your brand
+- [ ] create your github page
+- [ ] Market your skills to the world
